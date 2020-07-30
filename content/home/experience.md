@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research"
 subtitle = ""
 
 # Date format for experience
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Smith College, MA"
   date_start = "2019-09-01"
-  date_end = ""
-  description = """Measuring photo-z's and lensing masses for 8
+  date_end = "2020-05-17"
+  description = """Measuring photo-z's and lensing masses for 10
   Planck-selected submillimeter galaxies to constrain foreground lens mass distribution"""
 
 [[experience]]
