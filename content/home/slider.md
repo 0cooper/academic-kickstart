@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "450px"
+height = "350px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,8 +23,8 @@ height = "450px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "slider/kpnosunset.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "slider/bigbend.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -34,21 +34,41 @@ height = "450px"
   cta_icon_pack = "fas"
   cta_icon = "search"
 
+
 [[item]]
   title = ""
-  content = "In the press, blog posts, and more"
+  content = "Read about my experience witnessing the 2017 solar eclipse"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "slider/trail.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/campfire.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
  # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "media"
-  cta_url = "press/"
+  cta_label = "read eyes up"
+  cta_url = "https://baas.aas.org/pub/2024i3n010/release/1"
   cta_icon_pack = "fas"
   cta_icon = "newspaper"
+
+[[item]]
+  title = ""
+  content = "Check out my posts on Astrobites"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/bearskin.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
+ # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "astrobites"
+  cta_url = "https://astrobites.org/author/ocooper/"
+  cta_icon_pack = "fas"
+  cta_icon = "cookie-bite"
+
+
 
 +++

@@ -10,29 +10,38 @@
 
 [[main]]
   name = "Research"
-  url = "#experience"
-  weight = 40
-
+  url = "research/"
+  weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 80
+    name = "Outreach"
+    url = "outreach/"
+    weight = 30
+
+[[main]]
+    name = "Science Writing"
+    parent = "Outreach"
+    url = "outreach/writing"
+    weight = 10
+
+[[main]]
+    name = "Climate Literacy"
+    parent = "Outreach"
+    url = "outreach/climate"
+    weight = 20
+
+[[main]]
+    name = "Public Talks"
+    parent = "Outreach"
+    url = "outreach/talks"
+    weight = 30
+
+[[main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 110
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 100
-
-[[main]]
-  name = "Press"
-  url = "press/"
   weight = 120
-
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70

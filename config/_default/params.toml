@@ -22,7 +22,7 @@ font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -85,7 +85,7 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ocooper@utexas.edu"
+email = "oliviaraecooper@gmail.com"
 phone = ""
 
 # Address

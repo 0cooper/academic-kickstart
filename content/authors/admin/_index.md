@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: First Year Graduate Student
+role: NSF Graduate Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an astronomy graduate student at UT Austin researching starburst galaxies at cosmic noon
+bio: NSF Fellow at UT Austin researching massive galaxies in the early universe
 
 interests:
-- Dusty star forming galaxies
-- Galaxy formation & evolution
-- Large scale structure
+- Massive galaxy evolution
+- Efficient star formation
+- Climate change literacy
+
 
 education:
   courses:
+  - course: PhD in Astronomy
+    institution: UT Austin
+    year: 2025 (expected)
   - course: BA in Astronomy & Physics
     institution: Smith College
     year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,6 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&authuser=2&user=ftprjkIAAAAJ
+- icon: cookie-bite
+  icon_pack: fas
+  link: https://astrobites.org/author/ocooper/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,6 +76,21 @@ user_groups:
 - Visitors
 ---
 
-Hey! I'm Olivia (she/her), a first year astronomy graduate student at
-UT Austin. My research focuses on extreme distant galaxies, in particular starburst galaxies at cosmic
-noon. I graduated from Smith College in May 2020 with degrees in Astronomy and Physics and a concentration in Climate Change.
+Hey! I'm Olivia (she/her), an NSF fellow and final year PhD candidate at
+UT Austin. I am a galaxy observer, and my research focuses
+specifically on massive galaxies and their role within galaxy evolution in
+the first half of cosmic time. I graduated from Smith
+College in May 2020 with degrees in Astronomy and Physics and a
+concentration in Climate Change.
+
+In addition to my research on distant galaxies, I am also a science
+communicator, a climate steward, and an advocate for equity and
+justice in astronomy. I've written for [Astrobites](https://astrobites.org) for the
+past four years, and co-founded the Climate Change Committee, wherein
+we discuss topics at the intersection of astronomy and climate change and host
+[Earth Week x Astrobites](https://astrobites.org/earthweek2024/)
+annually. I co-chair the Outreach Committee of [COSMOS-Web](https://cosmos.astro.caltech.edu/page/cosmosweb), which
+aims to engage the public with the science results from the
+largest-area JWST legacy image. I am also co-founder of chOIR, a
+collaboration with equal emphasis on studying galaxy evolution and bettering
+astronomy culture.
